@@ -1,0 +1,10 @@
+{
+    "app":{
+        "port": 3000
+    },
+    "AWS":{
+        "accessKey": "-----------",
+        "secretKey": "------------",
+        "bucketName": "lti-ref-impl-scores"
+    }
+}
